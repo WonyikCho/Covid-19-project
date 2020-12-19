@@ -9,7 +9,7 @@ The Source page shows the API used for this project.
 
 # How to start
 
-### `npm install` to download node for the project.
+### `npm install` to download nodes for the project.
 
 ### `npm start` to run the website in the development mode.
 
